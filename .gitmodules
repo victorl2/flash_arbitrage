@@ -1,0 +1,3 @@
+[submodule "flash_arbitrage/lib/forge-std"]
+	path = flash_arbitrage/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
